@@ -11,7 +11,13 @@
 <h2>Fronted</h2>
 <p align="Left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vite,react" />
+  </a>
+</p>
+<h2>Backend</h2>
+<p align="Left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,java,spring" />
   </a>
 </p>
 
