@@ -8,20 +8,37 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<h2>Fronted</h2>
+<h2>Fronted:</h2>
 <p align="Left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vite,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vite,react,ts" />
   </a>
 </p>
-<h2>Backend</h2>
+<h2>Programming Languages:</h2>
 <p align="Left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,spring" />
+    <img src="https://skillicons.dev/icons?i=cs,java,spring,dotnet" />
   </a>
 </p>
-
-
+<h2>Integrated Development Environments (IDEs):</h2>
+<p align="Left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea" />
+  </a>
+</p>
+<h2>Version Control and Repositories:</h2>
+<p align="Left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
+  </a>
+</p>
+<h2>Databases:</h2>
+<p align="Left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
+  </a>
+  
+  
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
