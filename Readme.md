@@ -8,7 +8,7 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-- **Fronted**:
+<h2>Fronted</h2>
 <p align="Left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js" />
